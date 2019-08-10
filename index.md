@@ -13,13 +13,20 @@ Syntax highlighted code block
 
 # Jennifer Tabor
 ## CS 499
-### Southern New Hampshire University
+####### Southern New Hampshire University
 
-- Bulleted
-- List
+- **Milestone One**
+- [] Upload Milestone One
+[Link](url)
+- **Milestone Two**
+- [] Upload Milestone Two
+- **Milestone Three**
+- [] Upload Milestone Three
+- **Milestone Four**
+- [x] Upload Milestone Four
+[Milestone Four Narrative](C:\Users\user\Desktop\CS 499_Milestone Four_Jennifer Tabor.docx)
+[Android Project Updated](C:\Users\user\Desktop\CS 499\PortfolioNotes_MilestoneFour_JenniferTabor)
 
-1. Numbered
-2. List
 
 **Bold** and _Italic_ and `Code` text
 
