@@ -4,6 +4,34 @@ You can use the [editor on GitHub](https://github.com/hijackedUnicorn/hijackedUn
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Jennifer Tabor ePortfolio</title>
+	</head>
+	<body>
+		<nav>
+    		<ul>
+        		<li><a href="/">Home</a></li>
+	        	<li><a href="/Projects">Projects</a></li>
+        		
+    		</ul>
+		</nav>
+		<div class="container">
+    		<div class="blurb">
+        		<h1>Hello and Welcome to my ePortfolio</h1>
+				<p>Take a look around at my project for CS 499. It is an Android application called PorfolioNotes!</p>
+    		</div><!-- /.blurb -->
+		</div><!-- /.container -->
+		<footer>
+    		<ul>
+        		<li><a href="mailto:jen.leonard77@outlook.com">email</a></li>
+        		<li><a href="https:github.com/hijackedUnicorn">github.com/hijackedUnicorn</a></li>
+			</ul>
+		</footer>
+	</body>
+</html>
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
