@@ -4,12 +4,12 @@
 #### Southern New Hampshire University
 
 - **Milestone One**
-- [] Upload Milestone One
+- [x] Upload Milestone One
 [Link](url)
 - **Milestone Two**
-- [] Upload Milestone Two
+- [x] Upload Milestone Two
 - **Milestone Three**
-- [] Upload Milestone Three
+- [x] Upload Milestone Three
 - **Milestone Four**
 - [x] Upload Milestone Four
 [Milestone Four Narrative](C:\Users\user\Desktop\CS 499_Milestone Four_Jennifer Tabor.docx)
