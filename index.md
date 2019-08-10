@@ -26,7 +26,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 				<p>Take a look around at my project for CS 499. It is an Android application called PorfolioNotes!
 				<ul>
 				<li><a href="/Projects">Projects</a></li></ul>
-				<link rel="Projects" type"text/docx" href="/Portfolio">
+				<link rel="Projects" type"text/docx" href="/Portfolio.docx">
 				</p>
     		</div><!-- /.blurb -->
 		</div><!-- /.container -->
