@@ -20,7 +20,10 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 		<div class="container">
     		<div class="blurb">
         		<h1>Hello and Welcome to my ePortfolio</h1>
-				<p>Take a look around at my project for CS 499. It is an Android application called PorfolioNotes!</p>
+				<p>Take a look around at my project for CS 499. It is an Android application called PorfolioNotes!
+				<ul>
+				<li><a href="/Projects">Projects</a></li></ul>
+				</p>
     		</div><!-- /.blurb -->
 		</div><!-- /.container -->
 		<footer>
