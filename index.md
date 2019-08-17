@@ -9,6 +9,8 @@
 [Code Review]("C:\Users\user\Desktop\codeReview.zip")
 - **Milestone Two**
 - [x] Upload Milestone Two
+[Milestone Two](https://github.com/hijackedUnicorn/hijackedUnicorn.github.io/blob/master/CS%20499_%20MilestoneTwo_Jennifer%20Tabor.docx)
+[Milestone Two](CS 499_MilestoneTwo_Jennifer Tabor.docx)
 - **Milestone Three**
 - [x] Upload Milestone Three
 - **Milestone Four**
