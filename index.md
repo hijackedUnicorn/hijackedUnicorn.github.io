@@ -37,7 +37,7 @@
 				<p>Take a look around at my project for CS 499. It is an Android application called PorfolioNotes!
 				<ul>
 				<li><video width="320" height="240" controls>
-  				<source src="C:\Users\user\Desktop\codeReview.mp4" type="C:\Users\user\Desktop\codeReview/mp4">
+  				<source src="C:\Users\user\Desktop\CS 499\codeReview.mp4" type="C:\Users\user\Desktop\CS 499\codeReview/mp4">
 				</video></li>
 				 </ul>
 				</p>
