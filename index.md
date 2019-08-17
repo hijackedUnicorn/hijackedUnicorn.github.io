@@ -1,3 +1,12 @@
+# initialize Git
+$ mkdir hijackedUnicorn
+$ cd hijackedUnicorn
+$ git init
+Initialized empty Git repository in /Users/user/hijackedUnicorn/.git/
+# initialize Git LFS
+$ git lfs install
+Updated pre-push hook.
+Git LFS initialized.
 # Welcome to Jennifer's ePorfolio
 ## Jennifer Tabor
 ### CS 499
