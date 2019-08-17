@@ -6,15 +6,17 @@
 
 - **Milestone One**
 - [x] Upload Milestone One
-[Code Review]("C:\Users\user\Desktop\codeReview.zip")
+[Milestone One Code Review]()
 - **Milestone Two**
 - [x] Upload Milestone Two
 [Milestone Two](https://github.com/hijackedUnicorn/hijackedUnicorn.github.io/blob/master/CS%20499_%20MilestoneTwo_Jennifer%20Tabor.docx)
-[Milestone Two](CS 499_MilestoneTwo_Jennifer Tabor.docx)
 - **Milestone Three**
 - [x] Upload Milestone Three
+[Milestone Three](https://github.com/hijackedUnicorn/hijackedUnicorn.github.io/blob/master/CS%20499_Milestone%20Three_Jennifer%20Tabor.docx)
 - **Milestone Four**
 - [x] Upload Milestone Four
+[Milestone Four](https://github.com/hijackedUnicorn/hijackedUnicorn.github.io/blob/master/CS%20499_Milestone%20Four_Jennifer%20Tabor.docx)
+
 [Milestone Four Narrative](C:\Users\user\Desktop\CS 499_Milestone Four_Jennifer Tabor.docx)
 [Android Project Updated](C:\Users\user\Desktop\CS 499\PortfolioNotes_MilestoneFour_JenniferTabor)
 
@@ -33,18 +35,6 @@
         		
     		</ul>
 		</nav>
-		<div class="container">
-    		<div class="blurb">
-        		<h3>Hello and Welcome to my ePortfolio</h3>
-				<p>Take a look around at my project for CS 499. It is an Android application called PorfolioNotes!
-				<ul>
-				<li><video width="320" height="240" controls>
-  				<source src="C:\Users\user\Desktop\CS 499\codeReview.mp4" type="C:\Users\user\Desktop\CS 499\codeReview/mp4">
-				</video></li>
-				 </ul>
-				</p>
-    		</div><!-- /.blurb -->
-		</div><!-- /.container -->
 		<footer>
     		<ul>
         		<li><a href="mailto:jen.leonard77@outlook.com">email</a></li>
