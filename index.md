@@ -49,10 +49,10 @@
 
 	<body>
 	<p>
-	<img src="wireFrame.png" alt="Wireframe" style="width:128px;height:128px;">
+	<img src="wireFrame.png" alt="Wireframe" style="width:228px;height:228px;">
 	</p>
 	<p>
-	<img src="app.png" alt="App" style="width:64px;height:128px">
+	<img src="app.png" alt="App" style="width:128px;height:256px">
 	</p>
 	</body>
 	
