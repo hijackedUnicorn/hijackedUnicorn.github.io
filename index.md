@@ -42,7 +42,7 @@
 		<!-- link to main stylesheet -->
 		<link rel="stylesheet" type="text/css" href="/css/main.css">
 		<style>
-	img {width: 100%;}
+	img {width: 45%;}
 	</style>
 	<p><img src="wireFrame.png" alt="Wireframe" style="float:right;"></p>
 	<p><img src="app.png" alt="App" style="float:left;"></p>
