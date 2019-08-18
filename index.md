@@ -6,7 +6,20 @@
 
 - **Milestone One**
 - [x] Upload Milestone One
-[Milestone One Code Review](codeReview_1.jpg)
+- **Snippets of Code Review**
+- [Code Review_1](codeReview_1.jpg)
+- [Code Review_2](codeReview_2.jpg)
+- [Code Review_3](codeReview_3.jpg)
+- [Code Review_4](codeReview_4.jpg)
+- [Code Review_5](codeReview_5.jpg)
+- [Code Review_6](codeReview_6.jpg)
+- [Code Review_7](codeReview_7.jpg)
+- [Code Review_8](codeReview_8.jpg)
+- [Code Review_9](codeReview_9.jpg)
+- [Code Review_10](codeReview_10.jpg)
+- [Code Review_11](codeReview_11.jpg)
+- [Code Review_12](codeReview_12.jpg)
+
 - **Milestone Two**
 - [x] Upload Milestone Two
 [Milestone Two](https://github.com/hijackedUnicorn/hijackedUnicorn.github.io/blob/master/CS%20499_%20MilestoneTwo_Jennifer%20Tabor.docx)
