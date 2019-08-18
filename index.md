@@ -50,6 +50,9 @@
 	<img src="wireFrame.png" alt="Wireframe" style="width:65px;height:65px;">
 	<img src="app.png" alt="App" style="width:65px;height:65px">
 	</p>
+	</body>
+	
+	<body>
 	<footer>
     		<ul>
         		<li><a href="mailto:jen.leonard77@outlook.com">email</a></li>
