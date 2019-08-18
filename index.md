@@ -35,6 +35,7 @@
 [Project](https://github.com/hijackedUnicorn/hijackedUnicorn.github.io/blob/master/PortfolioNotes_MilestoneFour_JenniferTabor.zip)
 
 
+
 <html>
 	<head>
 		<title>Jennifer Tabor's ePortfolio</title>
@@ -45,10 +46,10 @@
 	</head>
 
 	<body>
-	<picture>
-	<img src="wireFrame.png" alt="Wireframe" style="width:auto;">
-	<img src="app.png" alt="App" style="width:auto;">
-	</picture>
+	<p>
+	<img src="wireFrame.png" alt="Wireframe" style="width:65px;height:65px;">
+	<img src="app.png" alt="App" style="width:65px;height:65px">
+	</p>
 	<footer>
     		<ul>
         		<li><a href="mailto:jen.leonard77@outlook.com">email</a></li>
