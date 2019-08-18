@@ -46,6 +46,8 @@
 
 	</head>
 	<body>
+	<p><img src="wireFrame.png" alt="Wireframe" style="float:right;width:42px;height:42px;"></p>
+	<p><img src="app.png" alt="App" style="float:left;width:42px;height:42px;"></p>
 		<nav>
     		<ul>
         		<li><a href="/">Home</a></li>
