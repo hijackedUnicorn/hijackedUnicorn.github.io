@@ -10,17 +10,18 @@
 - **Milestone One**
 - [x] Upload Milestone One
 - **Snippets of Code Review**
-- [Code Review_1](codeReview_1.jpg)
-- [Code Review_2](codeReview_2.jpg)
-- [Code Review_3](codeReview_3.jpg)
-- [Code Review_4](codeReview_4.jpg)
-- [Code Review_5](codeReview_5.jpg)
-- [Code Review_6](codeReview_6.jpg)
-- [Code Review_7](codeReview_7.jpg)
-- [Code Review_8](codeReview_8.jpg)
-- [Code Review_9](codeReview_9.jpg)
-- [Code Review_10](codeReview_10.jpg)
-- [Code Review_11](codeReview_11.jpg)
+1. [Code Review_1](codeReview_1.jpg)
+2. [Code Review_2](codeReview_2.jpg)
+3. [Code Review_3](codeReview_3.jpg)
+4. [Code Review_4](codeReview_4.jpg)
+5. [Code Review_5](codeReview_5.jpg)
+6. [Code Review_6](codeReview_6.jpg)
+7. [Code Review_7](codeReview_7.jpg)
+8. [Code Review_8](codeReview_8.jpg)
+9. [Code Review_9](codeReview_9.jpg)
+10. [Code Review_10](codeReview_10.jpg)
+11. [Code Review_11](codeReview_11.jpg)
+12. [Code Review_12](codeReview_12.jpg)
  
 - **Milestone Two**
 - [x] Upload Milestone Two
