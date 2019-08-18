@@ -5,7 +5,8 @@
 #### Southern New Hampshire University
 
 -**Final Project Assessment**
--[Professional Self Assessment](https://github.com/hijackedUnicorn/hijackedUnicorn.github.io/blob/master/CS499_ProfessionalSelfAssement_JenniferTabor.htm)
+-[x] Upload Self Assessment
+-[Professional Self Assessment](https://github.com/hijackedUnicorn/hijackedUnicorn.github.io/blob/master/CS499_ProfessionalSelfAssement_JenniferTabor.docx)
 
 - **Milestone One**
 - [x] Upload Milestone One
@@ -29,7 +30,7 @@
 [Milestone Two](https://github.com/hijackedUnicorn/hijackedUnicorn.github.io/blob/master/CS%20499_%20MilestoneTwo_Jennifer%20Tabor.docx)
 - **Milestone Three**
 - [x] Upload Milestone Three
-[Milestone Three](https://github.com/hijackedUnicorn/hijackedUnicorn.github.io/blob/master/CS%20499_Milestone%20Three_Jennifer%20Tabor.htm)
+[Milestone Three](https://github.com/hijackedUnicorn/hijackedUnicorn.github.io/blob/master/CS%20499_Milestone%20Three_Jennifer%20Tabor.docx)
 - **Milestone Four**
 - [x] Upload Milestone Four
 [Milestone Four](https://github.com/hijackedUnicorn/hijackedUnicorn.github.io/blob/master/CS%20499_Milestone%20Four_Jennifer%20Tabor.docx)
