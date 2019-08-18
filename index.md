@@ -1,5 +1,4 @@
 
-# Welcome to Jennifer's ePorfolio
 # Jennifer Tabor
 ## CS 499
 ### Southern New Hampshire University
@@ -41,11 +40,9 @@
 		<title>Jennifer Tabor's ePortfolio</title>
 		<!-- link to main stylesheet -->
 		<link rel="stylesheet" type="text/css" href="/css/main.css">
-		<style>
-	img {width: 45%;}
-	</style>
-	<p><img src="wireFrame.png" alt="Wireframe" style="float:right;"></p>
-	<p><img src="app.png" alt="App" style="float:left;"></p>
+		 
+	<p><img src="wireFrame.png" alt="Wireframe" style="float:right; style="width:65px;height:65px;"></p>
+	<p><img src="app.png" alt="App" style="float:left; style="width:48px;height:62px;"></p>
 
 	</head>
 
