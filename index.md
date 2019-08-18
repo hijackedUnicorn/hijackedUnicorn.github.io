@@ -25,16 +25,18 @@
  
 - **Milestone Two**
 - [x] Upload Milestone Two
-- [Milestone Two](https://github.com/hijackedUnicorn/hijackedUnicorn.github.io/blob/master/CS%20499_%20MilestoneTwo_Jennifer%20Tabor.docx)
+- [Narrative Two](https://github.com/hijackedUnicorn/hijackedUnicorn.github.io/blob/master/CS%20499_%20MilestoneTwo_Jennifer%20Tabor.docx)
+- [Android App](https://github.com/hijackedUnicorn/hijackedUnicorn.github.io/blob/master/PortfolioNotes_JenniferTabor.zip)
 - **Milestone Three**
 - [x] Upload Milestone Three
-- [Milestone Three](https://github.com/hijackedUnicorn/hijackedUnicorn.github.io/blob/master/CS%20499_Milestone%20Three_Jennifer%20Tabor.docx)
+- [Narrative Three](https://github.com/hijackedUnicorn/hijackedUnicorn.github.io/blob/master/CS%20499_Milestone%20Three_Jennifer%20Tabor.docx)
 - **Milestone Four**
 - [x] Upload Milestone Four
-- [Milestone Four](https://github.com/hijackedUnicorn/hijackedUnicorn.github.io/blob/master/CS%20499_Milestone%20Four_Jennifer%20Tabor.docx)
-
+- [Narrative Four](https://github.com/hijackedUnicorn/hijackedUnicorn.github.io/blob/master/CS%20499_Milestone%20Four_Jennifer%20Tabor.docx)
+- [Android App](https://github.com/hijackedUnicorn/hijackedUnicorn.github.io/blob/master/PortfolioNotes_MilestoneFour_JenniferTabor.zip)
 ## Project
-- [Project](https://github.com/hijackedUnicorn/hijackedUnicorn.github.io/blob/master/PortfolioNotes_MilestoneFour_JenniferTabor.zip)
+- [Milestone 2](https://github.com/hijackedUnicorn/hijackedUnicorn.github.io/blob/master/PortfolioNotes_JenniferTabor.zip)
+- [Milestone 4](https://github.com/hijackedUnicorn/hijackedUnicorn.github.io/blob/master/PortfolioNotes_MilestoneFour_JenniferTabor.zip)
 
 
 
