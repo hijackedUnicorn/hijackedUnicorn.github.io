@@ -61,8 +61,8 @@
 	<body>
 	<footer>
     		<ul>
-        		<li><a href="mailto:jen.leonard77@outlook.com">email</a></li>
-        		<li><a href="https:github.com/hijackedUnicorn">github.com/hijackedUnicorn</a></li>
+        		<li><a href="mailto:jen.leonard77@outlook.com">email me</a></li>
+        		<li><a href="https://github.com/hijackedUnicorn/hijackedUnicorn.github.io">github.com/hijackedUnicorn</a></li>
 			</ul>
 		</footer>
 		
