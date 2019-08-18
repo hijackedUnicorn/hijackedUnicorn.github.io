@@ -22,7 +22,7 @@
 - [Code Review_9](codeReview_9.jpg)
 - [Code Review_10](codeReview_10.jpg)
 - [Code Review_11](codeReview_11.jpg)
-- [Code Review_12](codeReview_12.jpg)
+ 
 - **Milestone Two**
 - [x] Upload Milestone Two
 [Milestone Two](https://github.com/hijackedUnicorn/hijackedUnicorn.github.io/blob/master/CS%20499_%20MilestoneTwo_Jennifer%20Tabor.docx)
@@ -43,15 +43,21 @@
 		<link rel="stylesheet" type="text/css" href="/css/main.css">
 
 	</head>
+
 	<body>
-	<p><img src="wireFrame.png" alt="Wireframe" style="float:right;width:52px;height:52px;"></p>
-	<p><img src="app.png" alt="App" style="float:left;width:52px;height:52px;"></p>
+	<style>
+	img {width: 100%;}
+	</style>
+	<p><img src="wireFrame.png" alt="Wireframe" style="float:right;"></p>
+	<p><img src="app.png" alt="App" style="float:left;"></p>
+	 
 		<footer>
     		<ul>
         		<li><a href="mailto:jen.leonard77@outlook.com">email</a></li>
         		<li><a href="https:github.com/hijackedUnicorn">github.com/hijackedUnicorn</a></li>
 			</ul>
 		</footer>
+		
 	</body>
 </html>
 
