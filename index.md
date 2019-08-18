@@ -6,7 +6,7 @@
 
 - **Milestone One**
 - [x] Upload Milestone One
-[Milestone One Code Review]()
+[Milestone One Code Review](codeReview_1.jpg)
 - **Milestone Two**
 - [x] Upload Milestone Two
 [Milestone Two](https://github.com/hijackedUnicorn/hijackedUnicorn.github.io/blob/master/CS%20499_%20MilestoneTwo_Jennifer%20Tabor.docx)
