@@ -41,15 +41,16 @@
 		<title>Jennifer Tabor's ePortfolio</title>
 		<!-- link to main stylesheet -->
 		<link rel="stylesheet" type="text/css" href="/css/main.css">
-
-	</head>
-
-	<body>
-	<style>
+		<style>
 	img {width: 100%;}
 	</style>
 	<p><img src="wireFrame.png" alt="Wireframe" style="float:right;"></p>
 	<p><img src="app.png" alt="App" style="float:left;"></p>
+
+	</head>
+
+	<body>
+	
 	 
 		<footer>
     		<ul>
