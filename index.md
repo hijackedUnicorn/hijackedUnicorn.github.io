@@ -1,12 +1,12 @@
 
 # Welcome to Jennifer's ePorfolio
-## Jennifer Tabor
-### CS 499
-#### Southern New Hampshire University
+# Jennifer Tabor
+## CS 499
+### Southern New Hampshire University
 
--**Final Project Assessment**
--[x] Upload Self Assessment
--[Professional Self Assessment](https://github.com/hijackedUnicorn/hijackedUnicorn.github.io/blob/master/CS499_ProfessionalSelfAssement_JenniferTabor.docx)
+- **Final Project Assessment**
+- [x] Upload Self Assessment
+- [Professional Self Assessment](https://github.com/hijackedUnicorn/hijackedUnicorn.github.io/blob/master/CS499_ProfessionalSelfAssement_JenniferTabor.docx)
 
 - **Milestone One**
 - [x] Upload Milestone One
