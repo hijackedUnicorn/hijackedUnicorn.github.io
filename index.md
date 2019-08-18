@@ -6,6 +6,7 @@
 
 - **Milestone One**
 - [x] Upload Milestone One
+
 - **Snippets of Code Review**
 - [Code Review_1](codeReview_1.jpg)
 - [Code Review_2](codeReview_2.jpg)
