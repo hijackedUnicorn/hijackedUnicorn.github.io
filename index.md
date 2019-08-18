@@ -40,11 +40,21 @@
 		<title>Jennifer Tabor's ePortfolio</title>
 		<!-- link to main stylesheet -->
 		<link rel="stylesheet" type="text/css" href="/css/main.css">
+		 
+		
 	</head>
 
 	<body>
-	<p><img src="wireFrame.png" alt="Wireframe" style="float:right; style="width:65px;height:65px;"></p>
-	<p><img src="app.png" alt="App" style="float:left; style="width:48px;height:62px;"></p>
+	<picture>
+	<img src="wireFrame.png" alt="Wireframe" style="width:auto;">
+	<img src="app.png" alt="App" style="width:auto;">
+	</picture>
+	<footer>
+    		<ul>
+        		<li><a href="mailto:jen.leonard77@outlook.com">email</a></li>
+        		<li><a href="https:github.com/hijackedUnicorn">github.com/hijackedUnicorn</a></li>
+			</ul>
+		</footer>
 		
 	</body>
 </html>
